@@ -5,3 +5,14 @@
 
 (b) The Scrum Master is responsible for all scrum related tasks, such as Jira tooling and facilitating sprints and meetings.
     The Product Owner sets the direction for the team, handles releases, and stakeholder management.
+
+(c) The three types of meetings are:
+    1. Sprint Planning Meeting:
+        - discuss what needs to be completed in the coming sprint
+        - determine story points and assign stories to teams
+    2. Daily Scrum/Standup Meeting:
+        - discuss work completed
+        - discuss blockers
+    3. Sprint Retrospective Meeting:
+        - move incomplete work to backlog
+        - discuss work complete
