@@ -2,3 +2,6 @@
     Pro2: More resilient to scope changes in the Project
     Con1: Lack of predictability in timelines
     Con2: Unclear Project objectives
+
+(b) The Scrum Master is responsible for all scrum related tasks, such as Jira tooling and facilitating sprints and meetings.
+    The Product Owner sets the direction for the team, handles releases, and stakeholder management.
