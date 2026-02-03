@@ -16,3 +16,9 @@
     3. Sprint Retrospective Meeting:
         - move incomplete work to backlog
         - discuss work complete
+
+(d) Epic - A large body of work that can be broken down into several smaller stories
+    Story- A software system requirement that is expressed in a few short
+sentences
+    Bug  - A problem which impairs/prevents functions of a product
+    Task - Work that needs to be done
