@@ -1,0 +1,4 @@
+(a) Pro1: Constant collaboration with customers
+    Pro2: More resilient to scope changes in the Project
+    Con1: Lack of predictability in timelines
+    Con2: Unclear Project objectives
